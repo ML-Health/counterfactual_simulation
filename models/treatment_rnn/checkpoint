@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jupyter/rmsn_nips_2018/models/treatment_rnn/treatment_effects_0.1_2_100_64_0.001_4.0_60_tanh_sigmoid_optimal.ckpt"
+all_model_checkpoint_paths: "/home/jupyter/rmsn_nips_2018/models/treatment_rnn/treatment_effects_0.1_2_100_64_0.001_4.0_60_tanh_sigmoid_optimal.ckpt"

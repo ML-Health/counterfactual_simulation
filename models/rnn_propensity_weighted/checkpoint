@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/eeeeeeric/Desktop/cvsim/rmsn_nips_2018/models/rnn_propensity_weighted/treatment_effects_0.2_8_100_128_0.005_0.5_60_final.ckpt"
+all_model_checkpoint_paths: "/Users/eeeeeeric/Desktop/cvsim/rmsn_nips_2018/models/rnn_propensity_weighted/treatment_effects_0.2_8_100_128_0.005_0.5_60_final.ckpt"

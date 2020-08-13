@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jupyter/rmsn_nips_2018/models/rnn_propensity_weighted_seq2seq/treatment_effects_0.4_4_100_512_0.001_0.5_60_final.ckpt"
+all_model_checkpoint_paths: "/home/jupyter/rmsn_nips_2018/models/rnn_propensity_weighted_seq2seq/treatment_effects_0.4_4_100_512_0.001_0.5_60_final.ckpt"
